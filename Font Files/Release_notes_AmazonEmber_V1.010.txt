@@ -1,0 +1,28 @@
+==Release notes_Amazon Ember==
+
+Compiler of release notes: Dalton Maag
+Designer: Dalton Maag
+Designer URL: daltonmaag.com
+
+Date of creation: 2015-01-09
+
+Changes since version 1.000:
+- Update to optimize the Greek capitalization diacritic substitution feature.
+- Recompiled with newest version of MS VOLT; optimizations for GSUB and GPOS tables.
+
+
+Basic information
+1 Basic Family name: Amazon Ember
+2 TrueType Version record: 1.010
+3 Regional package: Latin, Greek, Cyrillic
+4 Supported scripts: Latin, Greek, Cyrillic
+5 Number of glyphs: Thin, Light, Regular, Bold: 751; Thin Italic, Light Italic, Italic, Bold Italic: 749
+6 Weights/Styles: Thin, Thin Italic, Light, Light Italic, Regular, Italic, Bold and Bold Italic
+7 Usage: UI and text
+
+
+Technology
+1 File formats: The files have been delivered in the TrueType-based OpenType format, for use in all major Operating Systems.
+2 Embedding settings: Everything is allowed (installable mode); subsetting is allowed.
+3 Hinting information: No hinting.
+4 Default numerals: Tabular. Proportional figures accessible via OpenType features.
